@@ -327,7 +327,7 @@ text through the text editing buttons associated with the field."></unicode>
      <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
      <int value="2"></int>
      <string role="key" value="exportType"></string>
-     <string value="singlepage"></string>
+     <string value="website"></string>
      <string role="key" value="last_full_node_path"></string>
      <string value="exe-node:%C3%81rboles%20en%20Teor%C3%ADa%20de%20Grafos"></string>
      <string role="key" value="parent"></string>
@@ -762,7 +762,7 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:%C3%81rboles%20en%20Teor%C3%ADa%20de%20Grafos:Presentaci%C3%B3n"></string>
         <string role="key" value="parent"></string>
@@ -878,7 +878,7 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:%C3%81rboles%20en%20Teor%C3%ADa%20de%20Grafos:Objetivo"></string>
         <string role="key" value="parent"></string>
@@ -994,7 +994,7 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:%C3%81rboles%20en%20Teor%C3%ADa%20de%20Grafos:Metodolog%C3%ADa"></string>
         <string role="key" value="parent"></string>
@@ -1569,7 +1569,7 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:%C3%81rboles%20en%20Teor%C3%ADa%20de%20Grafos:%C3%81rboles"></string>
         <string role="key" value="parent"></string>
@@ -2763,7 +2763,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:%C3%81rboles%20en%20Teor%C3%ADa%20de%20Grafos:Autoevaluaci%C3%B3n"></string>
         <string role="key" value="parent"></string>
@@ -2889,7 +2889,7 @@ text through the text editing buttons associated with the field."></unicode>
         <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
         <int value="2"></int>
         <string role="key" value="exportType"></string>
-        <string value="singlepage"></string>
+        <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:%C3%81rboles%20en%20Teor%C3%ADa%20de%20Grafos:Cr%C3%A9ditos"></string>
         <string role="key" value="parent"></string>
